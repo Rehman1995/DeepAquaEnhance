@@ -1,0 +1,17 @@
+
+# dataset info
+dataset_name: "UFO"   #"LSUI"      #"UIEB" 
+dataset_path: "./Dataset/UFO_120/"    # "./Dataset/LSUI/" #./Dataset/UIEB/""
+
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+# other params
+val_interval: 1000 # steps
+ckpt_interval: 10  # epochs
+
+
+
+ 
