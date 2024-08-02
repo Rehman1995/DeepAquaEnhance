@@ -6,4 +6,4 @@
 ## Performance of DeepAquaEnhance over Existing Techniques
 
 ![Result11](https://github.com/user-attachments/assets/d3a01ea8-41be-428b-aeb8-5b51d778b4f0)
-Qualitative analysis comparing six different cases 
+ 
