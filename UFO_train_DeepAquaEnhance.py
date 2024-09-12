@@ -1,5 +1,4 @@
-# print("Importing Libraries")
-%cd /home/hasan/gan_mula/MuLA_GAN-main/
+
 
 #%%
 import math
