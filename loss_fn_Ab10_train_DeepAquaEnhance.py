@@ -1,8 +1,3 @@
-#ablation study 10:  loss fn :  loss_1  : a=7
-
-
-# print("Importing Libraries")
-%cd /home/hasan/gan_mula/MuLA_GAN-main/
 
 #%%
 import math
