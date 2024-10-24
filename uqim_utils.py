@@ -1,7 +1,4 @@
-"""
-# > Modules for computing the Underwater Image Quality Measure (UIQM)
-# Maintainer: Jahid (email: islam034@umn.edu)
-"""
+
 from scipy import ndimage
 from PIL import Image
 import numpy as np
