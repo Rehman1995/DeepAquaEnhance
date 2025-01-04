@@ -1,5 +1,5 @@
 
-# blk ablation study 1: REPLACE CFF with UNETdown,  loss fn = a*loss_1 + b*loss_con
+# blk ablation study 1: REPLACE CFF with UNETdown,  loss fn = a*loss_1 + b*loss_con   
 
 # print("Importing Libraries")
 %cd /home/hasan/gan_mula/MuLA_GAN-main/
