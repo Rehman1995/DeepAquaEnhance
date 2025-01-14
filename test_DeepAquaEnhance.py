@@ -1,4 +1,3 @@
-%cd /home/hasan/gan_mula/MuLA_GAN-main/
 
 import os
 import time
