@@ -4,7 +4,7 @@
     * github.com/eriklindernoren/PyTorch-GAN
     * pluralsight.com/guides/artistic-neural-style-transfer-with-pytorch
  > Maintainer: https://github.com/xahidbuffon
-""" 
+"""  
 import torch
 import torch.nn as nn
 from torchvision import models
