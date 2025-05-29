@@ -9,7 +9,7 @@ from ntpath import basename
 ## local libs
 from uqim_utils import getUIQM
 #from brisque import BRISQUE
-
+ 
 def uciqe(loc):
     img_bgr = cv2.imread(loc)        # Used to read image files
     img_lab = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2LAB)  # Transform to Lab color space
