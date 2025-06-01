@@ -28,10 +28,10 @@ parser.add_argument("--data_dir", type=str, default="./Dataset/UIEB/test/images/
 #parser.add_argument("--sample_dir", type=str, default="./EUVP_output8")
 parser.add_argument("--sample_dir", type=str, default="./UIEB_output7")
 #parser.add_argument("--model_name", type=str, default="Newbkab4_MuLA_GAN_Initial_model_1")
-#parser.add_argument("--weights_path", type=str, default="/home/hasan/gan_mula/MuLA_GAN-main/Newbkab4/UIEB/generator_320.pth")
+#parser.add_argument("--weights_path", type=str, default="/home/gan_mula/MuLA_GAN-main/Newbkab4/UIEB/generator_320.pth")
 #parser.add_argument("--weights_path", type=str, default="EUVP_proposed/EUVP/generator_140.pth")
 parser.add_argument("--model_name", type=str, default="Newbkab3_MuLA_GAN_Initial_model_1")
-parser.add_argument("--weights_path", type=str, default="/home/hasan/gan_mula/MuLA_GAN-main/Newbkab3/UIEB/generator_300.pth")
+parser.add_argument("--weights_path", type=str, default="/home/gan_mula/MuLA_GAN-main/Newbkab3/UIEB/generator_300.pth")
 
 
 opt = parser.parse_args()
