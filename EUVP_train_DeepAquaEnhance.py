@@ -39,7 +39,7 @@ parser.add_argument("--batch_size", type=int, default=8, help="size of the batch
 parser.add_argument("--lr", type=float, default=0.0001, help="adam: learning rate")
 parser.add_argument("--b1", type=float, default=0.5, help="adam: decay of 1st order momentum")
 parser.add_argument("--b2", type=float, default=0.99, help="adam: decay of 2nd order momentum")
-args = parser.parse_args()
+args = parser.parse_args() 
 
 # print("Reading done")
 
