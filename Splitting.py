@@ -40,7 +40,7 @@ def split_dataset(train_folder, gt_folder, output_train_folder, output_test_fold
 
 if __name__ == '__main__':
     # Set your train folder, groundtruth folder, output train folder, and output test folder
-    train_folder = r'C:\Users\Rehman\Desktop\Khalifa\Research\Acquaculture review\Image Enhancement\Datasets\UIEB Dataset\raw-890\raw-890'
+    train_folder = r'C:\Users\Rehman\Desktop\Khalifa\Research\Acquaculture review\Image Enhancement\Datasets\UIEB Dataset\raw-890\raw-890' 
     gt_folder = r'C:\Users\Rehman\Desktop\Khalifa\Research\Acquaculture review\Image Enhancement\Datasets\UIEB Dataset\reference-890\reference-890'
     output_train_folder = r'C:\Users\Rehman\Desktop\Khalifa\Research\Acquaculture review\Image Enhancement\MuLA_GAN-main\MuLA_GAN-main\Dataset\UIEB\train'
     output_test_folder = r'C:\Users\Rehman\Desktop\Khalifa\Research\Acquaculture review\Image Enhancement\MuLA_GAN-main\MuLA_GAN-main\Dataset\UIEB\test'
