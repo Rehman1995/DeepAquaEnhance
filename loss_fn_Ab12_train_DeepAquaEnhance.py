@@ -2,7 +2,7 @@
 
  
 # print("Importing Libraries")
-%cd /home/rehman/gan_mula/MuLA_GAN-main/
+%cd /home/rehman/gan_mula/MuLA_GAN-main/ 
 
 #%%
 import math
