@@ -26,7 +26,7 @@ import einsum
 from models.commons import Weights_Normal, VGG19_PercepLoss
 #from models.MuLA_GAN2 import MuLA_GAN_Generator, Discriminator
 
-from models.MuLA_GAN_Initial_model_1  import MuLA_GAN_Generator, Discriminator
+from models.MuLA_GAN_Initial_model_1  import MuLA_GAN_Generator, Discriminator 
 from utils.EUVP_data_utils import Dataloader
 #from op import FusedLeakyReLU, fused_leaky_relu, upfirdn2d, conv2d_gradfix
 # print("Importing Done")
