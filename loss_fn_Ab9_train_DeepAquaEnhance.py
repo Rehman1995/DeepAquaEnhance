@@ -44,7 +44,7 @@ parser.add_argument("--b1", type=float, default=0.5, help="adam: decay of 1st or
 parser.add_argument("--b2", type=float, default=0.99, help="adam: decay of 2nd order momentum")
 args = parser.parse_args()
 
-# print("Reading done")
+# print("Reading done") 
 
 ## training params
 epoch = args.epoch
