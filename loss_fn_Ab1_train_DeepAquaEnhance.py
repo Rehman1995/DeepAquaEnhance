@@ -2,7 +2,7 @@
 # ablation study 1 : loss fn ab study :   loss fn = loss_gan + a*loss_1
 
 # print("Importing Libraries")
-%cd /home/hasan/gan_mula/MuLA_GAN-main/
+%cd /home/rehman/gan_mula/MuLA_GAN-main/
 
 #%%
 import math
