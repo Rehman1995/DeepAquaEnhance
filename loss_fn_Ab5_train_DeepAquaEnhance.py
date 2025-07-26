@@ -2,7 +2,7 @@
 # ab study 5 ;  loss fn : a=1, b=5
 
 # print("Importing Libraries")
-%cd /home/hasan/gan_mula/MuLA_GAN-main/
+%cd /home/rehman/gan_mula/MuLA_GAN-main/
 
 #%%
 import math
