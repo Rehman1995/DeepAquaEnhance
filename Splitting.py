@@ -1,5 +1,5 @@
 import os
-import random
+import random 
 import shutil
 
 def split_dataset(train_folder, gt_folder, output_train_folder, output_test_folder, test_size=90):
@@ -60,3 +60,4 @@ if __name__ == '__main__':
     split_dataset(train_folder, gt_folder, output_train_folder, output_test_folder, test_size)
 
     print(f"Successfully split the dataset. {test_size} image pairs copied to the test set.")
+
